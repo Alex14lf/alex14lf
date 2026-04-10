@@ -17,6 +17,4 @@
 | DATA | [![PYTHON](https://skillicons.dev/icons?i=py)](https://www.php.net/) &nbsp; |
 | TOOLS | [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://www.vscode.com/) &nbsp; [![GITHUB](https://skillicons.dev/icons?i=github)](https://www.github.com/) &nbsp; [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/) &nbsp; [![POSTMAN](https://skillicons.dev/icons?i=postman)](https://postman.com/) &nbsp; |
 
-## My statistics 📊
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=alex14lf&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex14lf&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355"  alt="0xabdulkhalid"/>
+
